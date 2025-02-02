@@ -5,7 +5,7 @@ import customers from "../assets/customers.svg";
 
 export default function Reviews() {
   return (
-    <section className="border flex flex-col gap-6 border-black h-[100vh] w-full bg-white px-12 py-6">
+    <section className=" flex flex-col gap-6 h-[100vh] w-full bg-white px-12 py-6">
       <div className="flex items-center justify-between">
         <h1 className="text-xl font-medium">Reviews</h1>
         <div className="flex items-center gap-4">
